@@ -1,6 +1,4 @@
-<p style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-size: 2em;">
-  Hi 👋, I'm Tasnim! 🧑‍💻
-</p>
+<p align="center" style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-size: 2em;">Hi 👋, I'm Tasnim! 🧑‍💻</p>
 
 I live in Bangladesh and a Front-end Developer working with Javascript,Reactjs and VueJs.
 
