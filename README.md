@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 2rem;"> Hi 👋, I'm Tasnim! 👩‍💻</h1>
 
-I live in Bangladesh and a Front-end Developer working with Javascript,Reactjs and VueJs.
+A passionate Front-end Developer from Bangladesh, working with Javascript,Reactjs and VueJs.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnim-hossain-prapty-a1261a166/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasnimhossainnwu16@gmail.com)
