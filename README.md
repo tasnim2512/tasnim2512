@@ -26,9 +26,6 @@ I live in Bangladesh and a Front-end Developer working with Javascript,Reactjs a
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim2512&show_icons=true&locale=en&layout=compact
-" alt="tasnim2512" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim2512&show_icons=true&locale=en&layout=compact" alt="tasnim2512" /></p>
 
 
