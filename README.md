@@ -1,4 +1,4 @@
-<p align="center" style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-size: 2em;">Hi 👋, I'm Tasnim! 🧑‍💻</p>
+<h1 align="center" style="font-size: 2rem;"> Hi 👋, I'm Tasnim! 🧑‍💻</h1>
 
 I live in Bangladesh and a Front-end Developer working with Javascript,Reactjs and VueJs.
 
@@ -25,5 +25,3 @@ I live in Bangladesh and a Front-end Developer working with Javascript,Reactjs a
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim2512&show_icons=true&locale=en&layout=compact" alt="tasnim2512" /></p>
-
-
